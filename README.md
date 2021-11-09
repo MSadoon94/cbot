@@ -33,30 +33,30 @@ and automated end-to-end testing.
 
 ### Feature Videos:
 
-<details open="">
-<summary>User Sign-up/Login</summary>
+<details>
+<summary style="display: list-item">User Sign-up/Login</summary>
 
-<video src="https://user-images.githubusercontent.com/61786966/140658365-31a30aca-eb23-486b-bff8-e870d5b24002.mp4" controls="controls"></video>
-
-</details>
-
-<details open="">
-<summary>Card Saving/Loading</summary>
-
-<video src="https://user-images.githubusercontent.com/61786966/140686333-ffeeafe7-24da-4a2b-8300-5af968897290.mp4" controls="controls"></video>
+<video src="https://user-images.githubusercontent.com/61786966/140658365-31a30aca-eb23-486b-bff8-e870d5b24002.mp4" controls="controls" style="max-height:640px;"></video>
 
 </details>
 
-<details open="">
-<summary>Crypto Pair Selection</summary>
+<details>
+<summary style="display: list-item">Card Saving/Loading</summary>
 
-<video src="https://user-images.githubusercontent.com/61786966/140686666-88265c02-e63f-4ef4-9750-136510457f64.mp4" controls="controls"></video>
+<video src="https://user-images.githubusercontent.com/61786966/140686333-ffeeafe7-24da-4a2b-8300-5af968897290.mp4" controls="controls" style="max-height:640px;"></video>
 
 </details>
 
-<details open="">
-<summary>User Logout</summary>
+<details>
+<summary style="display: list-item">Crypto Pair Selection</summary>
 
-<video src="https://user-images.githubusercontent.com/61786966/140686775-5ccf7c6f-4189-46ee-9834-58550eef41ce.mp4" controls="controls"></video>
+<video src="https://user-images.githubusercontent.com/61786966/140686666-88265c02-e63f-4ef4-9750-136510457f64.mp4" controls="controls" style="max-height:640px;"></video>
+
+</details>
+
+<details>
+<summary style="display: list-item">User Logout</summary>
+
+<video src="https://user-images.githubusercontent.com/61786966/140686775-5ccf7c6f-4189-46ee-9834-58550eef41ce.mp4" controls="controls" style="max-height:640px;"></video>
 
 </details>
