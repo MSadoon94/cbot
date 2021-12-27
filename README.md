@@ -41,7 +41,7 @@ and automated end-to-end testing.
 </details>
 
 <details>
-<summary style="display: list-item">Card Saving/Loading</summary>
+<summary style="display: list-item">Card Management</summary>
 
 <video src="https://user-images.githubusercontent.com/61786966/143621564-552c4bc9-5a08-4965-a07e-be3f7581476b.mp4" controls="controls" style="max-height:640px;"></video>
 
@@ -65,5 +65,12 @@ and automated end-to-end testing.
 <summary style="display: list-item">Refresh/Silent Refresh</summary>
 
 <video src="https://user-images.githubusercontent.com/61786966/143621720-4b68f345-c6b9-42b5-b8de-1a478fd28db3.mp4" controls="controls" style="max-height:640px;"></video>
+
+</details>
+
+<details>
+<summary style="display: list-item">Strategy Management</summary>
+
+<video src="https://user-images.githubusercontent.com/61786966/147477584-fe0bfc25-2a78-4cf2-900f-82105c6a6f67.mp4" controls="controls" style="max-height:640px;"></video>
 
 </details>
